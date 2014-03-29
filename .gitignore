@@ -2,5 +2,5 @@
 temp
 *.swp~
 test/*.txt
-!text/master.txt
+!test/master.txt
 
