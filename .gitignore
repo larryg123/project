@@ -1,0 +1,6 @@
+.DS_Store
+temp
+*.swp~
+test/*.txt
+!text/master.txt
+
